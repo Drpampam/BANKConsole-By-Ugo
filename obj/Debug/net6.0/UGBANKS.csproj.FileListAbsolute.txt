@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\UGBANKS\obj\Debug\net6.0\UGBANKS.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\UGBANKS\obj\Debug\net6.0\UGBANKS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\UGBANKS\obj\Debug\net6.0\UGBANKS.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\UGBANKS\obj\Debug\net6.0\UGBANKS.AssemblyInfo.cs
+C:\Users\hp\source\repos\UGBANKS\obj\Debug\net6.0\UGBANKS.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\UGBANKS\bin\Debug\net6.0\UGBANKS.exe
+C:\Users\hp\source\repos\UGBANKS\bin\Debug\net6.0\UGBANKS.deps.json
+C:\Users\hp\source\repos\UGBANKS\bin\Debug\net6.0\UGBANKS.runtimeconfig.json
+C:\Users\hp\source\repos\UGBANKS\bin\Debug\net6.0\UGBANKS.dll
+C:\Users\hp\source\repos\UGBANKS\bin\Debug\net6.0\UGBANKS.pdb
+C:\Users\hp\source\repos\UGBANKS\obj\Debug\net6.0\UGBANKS.dll
+C:\Users\hp\source\repos\UGBANKS\obj\Debug\net6.0\refint\UGBANKS.dll
+C:\Users\hp\source\repos\UGBANKS\obj\Debug\net6.0\UGBANKS.pdb
+C:\Users\hp\source\repos\UGBANKS\obj\Debug\net6.0\UGBANKS.genruntimeconfig.cache
+C:\Users\hp\source\repos\UGBANKS\obj\Debug\net6.0\ref\UGBANKS.dll
